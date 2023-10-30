@@ -2,7 +2,7 @@
 
 <h1>Setting up a Laravel project locally</h1>
 
-<h2>Follow these steps to set up a Laravel project fresh from Github</h2>
+<p>Follow these steps to set up a Laravel project fresh from Github</p>
 <p>Navigate to the project directory - cd contacts-backend</p>
 <p>Run the following commands to set-up your project</p>
 <ol> 
